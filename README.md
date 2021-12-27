@@ -8,4 +8,4 @@ Seja bem-vindo, seja bem-vinda!
 - 👨‍💻 Atualmente estudando na [Recode Pro](https://www.recodepro.org.br/), ciclo 2021/22.
 
 
-> 💾 _Tentando armazenar os teras da vida num humilde disquete._ ― José S., Danilo "Dejota"
+> 💾 _"Tentando armazenar os teras da vida num humilde disquete."_ ― José S., Danilo "Dejota"
