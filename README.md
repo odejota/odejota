@@ -2,12 +2,12 @@
 
 ### Seja bem-vindo, seja bem-vinda!
 
-Meu nome é Danilo, mas pode me chamar de Dejota! 🤝
+Meu nome é Danilo, mas pode me chamar de Dejota! :handshake:
 
-- 👶 Rookie na área de tecnologia, em transição de carreira;
-- 🧱 Dev Fullstack em construção;
-- 🏅 [Recoder Pro](https://www.recodepro.org.br/) 2021/2022.
-- :blue_car: Aluno [Ford Enter](https://www.fordenter.ford.com/) 2023.
+- :footprints: Rookie na área de tecnologia, em transição de carreira;
+- :bricks: Dev em construção;
+- :medal_sports: [Recoder Pro](https://www.recodepro.org.br/) 2021/2022.
+- :man_technologist: Estudante Front-End no Projeto [Ford Enter](https://www.fordenter.ford.com/) 2023.
 
 <div>
 <a href="https://github.com/odejota">
