@@ -6,7 +6,8 @@ Meu nome é Danilo, mas pode me chamar de Dejota! 🤝
 
 - 👶 Rookie na área de tecnologia, em transição de carreira;
 - 🧱 Dev Fullstack em construção;
-- 🏅 [Recoder Pro](https://www.recodepro.org.br/) 2021.
+- 🏅 [Recoder Pro](https://www.recodepro.org.br/) 2021/2022.
+- :blue_car: Aluno [Ford Enter](https://www.fordenter.ford.com/) 2023.
 
 <div>
 <a href="https://github.com/odejota">
